@@ -1,3 +1,6 @@
+### This code is associated with the paper from Crellen et al., "Transmission dynamics and control of multidrug-resistant <i>Klebsiella pneumoniae</i> in neonates in a developing country	". eLife, 2019. http://dx.doi.org/10.7554/eLife.50468
+
+
 # transmission-dynamics-klebsiella
 Scripts to allow replication of the analysis from "Transmission dynamics and control of multidrug-resistant Klebsiella pneumoniae in neonates in a developing country" by Crellen, T. et al. eLife 2019 https://elifesciences.org/articles/50468
 
